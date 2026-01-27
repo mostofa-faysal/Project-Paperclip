@@ -1,2 +1,2 @@
 # Project-Paperclip
-An AI PC companion
+An AI PC companion.
