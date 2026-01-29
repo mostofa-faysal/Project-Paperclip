@@ -1,6 +1,3 @@
-# Project-Paperclip
-An open-source, local-first AI assistant for your PC.
-
 ## Vision
 Project Paperclip aims to provide a privacy-respecting AI companion that runs fully on your
 computer. It should help with everyday workflows (notes, reminders, system automation, and
